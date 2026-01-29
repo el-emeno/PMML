@@ -1,2 +1,0 @@
-# PMML
-PMML -  mandatory project 
